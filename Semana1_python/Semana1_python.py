@@ -3,5 +3,6 @@
     carrera = input("Ingrese su carrera: ")
 
     print(f"\n{nombre}, bienvenido al curso de algoritmo de la carrera {carrera}")
-
-ejer1()
+def ejer2():
+    print("\"Jeyson\"")
+ejer2()
