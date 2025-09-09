@@ -15,4 +15,17 @@ def ejer3():
     print("multiplicacion: ",(num1*num2))
     print("division: ",(num1/num2))
     
-ejer3()
+import math #importndo libreria math
+def ejer4():
+    num = float(input("Ingrese numero decimal: "))
+
+    raiz = math.sqrt(num)
+    redo =round(num,2)
+    cubo = math.pow(num,3)
+    cubica = num ** (1/3)
+    print("Raiz cuadra: ",raiz)
+    print("redondeado: ",redo)
+    print("al cubo: ", cubo)
+    print("raiz cubica: ", cubica)
+    
+ejer4()
