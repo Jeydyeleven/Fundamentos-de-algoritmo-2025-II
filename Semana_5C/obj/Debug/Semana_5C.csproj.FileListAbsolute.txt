@@ -1,0 +1,2 @@
+C:\Users\UPN\Desktop\fundamentos_algottttttrimo\Fundamentos-de-algoritmo-2025-II\Semana_5C\obj\Debug\Semana_5C.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\fundamentos_algottttttrimo\Fundamentos-de-algoritmo-2025-II\Semana_5C\obj\Debug\Semana_5C.csproj.CoreCompileInputs.cache
